@@ -3,9 +3,9 @@
 
 @media (max-width: 1399.98px) {
     .text-content-box {
-        background-color: rgba(255,255,255,0.75);
-        height: 100%;
-        width: 100%;
+        background-color: rgba(255,255,255,0.75)!important;
+        height: 100%!important;
+        width: 100%!important;
     }
 }
 @media (max-width: 1199.98px) {
@@ -16,60 +16,60 @@
 
     /* Fonts */
     .gsq-cover-title {
-        font-size: 28px;
-		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+        font-size: 28px!important;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75)!important;
     }
     .gsq-cover-title-2 {
-        font-size: 50px;
-		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+        font-size: 50px!important;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75)!important;
     }
     .gsq-cover-subject-1 {
-        font-size: 22px;
-		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+        font-size: 22px!important;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75)!important;
     }
 	.gsq-cover-subject-2 {
-        font-size: 60px;
-		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+        font-size: 60px!important;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75)!important;
     }
     .gsq-cover-subject-3 {
-        font-size: 84px;
-		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+        font-size: 84px!important;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75)!important;
     }
 	.gsq-page-title {
-        font-size: 27px;
-        line-height: 32px;
+        font-size: 27px!important;
+        line-height: 32px!important;
     }
     .gsq-page-title-3 {
-		color: #ffffff;
-        font-size: 21px;
-		text-shadow: 0 3px 5px rgba(0,0,0,0.35);
+		color: #ffffff!important;
+        font-size: 21px!important;
+		text-shadow: 0 3px 5px rgba(0,0,0,0.35)!important;
     }
 	.gsq-page-text {
-		font-size: 18px;
+		font-size: 18px!important;
 	}
     .gsq-item-title {
-        font-size: 24px;
-		line-height: inherit;
+        font-size: 24px!important;
+		line-height: inherit!important;
     }
     .item-overlay-text {
-        font-size: 21px;
+        font-size: 21px!important;
     }
 	.break-text {
-		display: block;
-        word-break: keep-all;
+		display: block!important;
+        word-break: keep-all!important;
     }
 	
     /* Footer */
     .copyright {
-		margin-bottom: 48px;
+		margin-bottom: 48px!important;
     }
 	
 	/* Covers */
 	.gsq-cover-box {
-        height: 284px;
+        height: 284px!important;
     }
-	.page-description-index img{
-        opacity: 0.5;
+	.page-description-index img {
+        opacity: 0.5!important;
     }
 	
     /* Shadow */
@@ -81,16 +81,16 @@
 
 @media (max-width: 767.98px) {
     .text-content-box {
-        background-color: rgba(255,255,255,0.00);
+        background-color: rgba(255,255,255,0.00)!important;
     }
 	/* Mobile Show */
 	.mobile-show {
-		display: block;
-		padding-top: 100%;
+		display: block!important;
+		padding-top: 100%!important;
 	}
     /* Page Description */
     .page-description-index-2 {
-        background: url("https://goodsquay.com/wp-content/uploads/2023/02/goodsquay-info-mobile.png") no-repeat center top;
+        background: url("https://goodsquay.com/wp-content/uploads/2023/02/goodsquay-info-mobile.png") no-repeat center top!important;
 	}
 	/* Mobile Button */
 	.mobile-button .btn {

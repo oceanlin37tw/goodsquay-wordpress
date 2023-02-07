@@ -2,10 +2,10 @@
 html,body {
 	color: rgba(89,87,87,1.00);
 	font-family: "Microsoft JhengHei", "Helvetica Neue", "Noto Sans", Helvetica,Arial, sans-serif !important;
-	font-size: 16px;
-	height: 100%;
-    overflow-x: hidden;
-	scroll-behavior: smooth;
+	font-size: 16px!important;
+	height: 100%!important;
+    overflow-x: hidden!important;
+	scroll-behavior: smooth!important;
 }
 
 /* Breadcrumb */
@@ -20,176 +20,176 @@ html,body {
 
 /* Fonts */
 .gsq-cover-title {
-    font-size: 76px;
-    font-weight: bolder;
-	text-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    font-size: 76px!important;
+    font-weight: bolder!important;
+	text-shadow: 0 3px 8px rgba(0,0,0,0.15)!important;
 }
 .gsq-cover-title-2 {
-    font-size: 100px;
-    font-weight: bolder;
-	text-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    font-size: 100px!important;
+    font-weight: bolder!important;
+	text-shadow: 0 3px 8px rgba(0,0,0,0.15)!important;
 }
 .gsq-cover-subject-1 {
-    font-size: 58px;
-    font-weight: bolder;
-	text-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    font-size: 58px!important;
+    font-weight: bolder!important;
+	text-shadow: 0 3px 8px rgba(0,0,0,0.15)!important;
 }
 .gsq-cover-subject-2 {
-    font-size: 120px;
-    font-weight: bolder;
-	text-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    font-size: 120px!important;
+    font-weight: bolder!important;
+	text-shadow: 0 3px 8px rgba(0,0,0,0.15)!important;
 }
 .gsq-cover-subject-3 {
-    font-size: 158px;
-    font-weight: bolder;
-	text-shadow: 0 3px 8px rgba(0,0,0,0.15);
+    font-size: 158px!important;
+    font-weight: bolder!important;
+	text-shadow: 0 3px 8px rgba(0,0,0,0.15)!important;
 }
 .gsq-page-title {
-	font-size: 48px;
-	line-height: 57px;
-	padding: 24px 0;
+	font-size: 48px!important;
+	line-height: 57px!important;
+	padding: 24px 0!important;
 }
 .gsq-page-title-2 {
-	font-size: 24px;
-	line-height: 32px;
+	font-size: 24px!important;
+	line-height: 32px!important;
 }
 .gsq-page-title-3 {
-	font-size: 32px;
-	padding-bottom: 24px;
+	font-size: 32px!important;
+	padding-bottom: 24px!important;
 }
 .gsq-page-text {
-	color: #595757;
-	font-size: 21px;
-	line-height: 27px;
+	color: #595757!important;
+	font-size: 21px!important;
+	line-height: 27px!important;
 }
 .gsq-item-title {
-	font-size: 32px;
-	line-height: 39px;
-	min-height: 72px;
-	padding: 12px 0;
-	white-space: nowrap;
+	font-size: 32px!important;
+	line-height: 39px!important;
+	min-height: 72px!important;
+	padding: 12px 0!important;
+	white-space: nowrap!important;
 }
 .gsq-item-title-2 {
-	font-size: 21px;
-	line-height: 27px;
-	min-height: 78px;
-	padding: 12px 0;
-	white-space: nowrap;
+	font-size: 21px!important;
+	line-height: 27px!important;
+	min-height: 78px!important;
+	padding: 12px 0!important;
+	white-space: nowrap!important;
 }
 .gsq-item-text {
-	line-height: 24px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;	
+	line-height: 24px!important;
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 3!important;
+    -webkit-box-orient: vertical!important;	
 }
 .logo-description {
-	font-size: 15px;
+	font-size: 15px!important;
 }
 .break-text {
-	word-break: normal;
+	word-break: normal!important;
 }
 .gsq-data-number {
-	font-size: 48px;
+	font-size: 48px!important;
 }
 .gsq-data {
-	font-size: 21px;
+	font-size: 21px!important;
 }
 .gsq-data-description {
-	font-size: 24px;
+	font-size: 24px!important;
 }
 .item-overlay-text {
-	color: #ffffff;
-	font-size: 32px;
-	font-weight: bold;
-	text-shadow: 0 1px 5px rgba(0,0,0,0.55);
+	color: #ffffff!important;
+	font-size: 32px!important;
+	font-weight: bold!important;
+	text-shadow: 0 1px 5px rgba(0,0,0,0.55)!important;
 }
 
 /* Colors */
 .gsq-color-green {
-    color: #41B797;
+    color: #41B797!important;
 }
 .gsq-color-blue {
-    color: #08287F;
+    color: #08287F!important;
 }
 .gsq-color-light-green {
-    color: #5AA0AA;
+    color: #5AA0AA!important;
 }
 .gsq-color-light-purple {
-    color: #7873BE;
+    color: #7873BE!important;
 }
 .gsq-color-gery {
-    color: #727171;
+    color: #727171!important;
 }
 .gsq-color-black {
-    color: #231815;
+    color: #231815!important;
 }
 
 /* Background */
 .gsq-bg-yellow-light {
-	background: #fffeee;
+	background: #fffeee!important;
 }
 
 /* Buttons */
 .gsq-btn-outline-blue {
 	border: 1px solid rgba(8,40,127,1.00)!important;
-	color: rgba(8,40,127,1.00);
-	font-weight: bolder;
+	color: rgba(8,40,127,1.00)!important;
+	font-weight: bolder!important;
 }
 .gsq-btn-outline-blue:hover, .gsq-btn-outline-blue:active {
 	background-color: rgba(8,40,127,1.00)!important;
 }
 .gsq-btn-blue {
-	background: rgba(8,40,127,1.00);;
+	background: rgba(8,40,127,1.00)!important;
 	border: 1px solid rgba(8,40,127,1.00)!important;
-	color: rgba(255,255,255,1.00);
-	font-size: 21px;
-	font-weight: bolder;	
+	color: rgba(255,255,255,1.00)!important;
+	font-size: 21px!important;
+	font-weight: bolder!important;	
 }
 .gsq-btn-blue:hover {
-	background: rgba(0,20,75,1.00);;
+	background: rgba(0,20,75,1.00)!important;
 	border: 1px solid rgba(8,40,127,1.00)!important;
-	color: rgba(255,255,255,1.00);
-	font-size: 21px;
-	font-weight: bolder;	
+	color: rgba(255,255,255,1.00)!important;
+	font-size: 21px!important;
+	font-weight: bolder!important;	
 }
 
 /* Badge */
 .gsq-badge {
-	color: #ffffff;
-	font-size: 32px;
-	font-weight: bold;
-	margin-bottom: 12px;
+	color: #ffffff!important;
+	font-size: 32px!important;
+	font-weight: bold!important;
+	margin-bottom: 12px!important;
 }
 .gsq-text-bg-blue {
-	background: #08287F;
+	background: #08287F!important;
 }
 .gsq-badge-blue {
 	background: #08287F!important;
-	color: #ffffff;
+	color: #ffffff!important;
 	font-size: 16px!important;
 	font-weight: bold!important;
-	padding: 8px 16px;
+	padding: 8px 16px!important;
 }
 
 /* Feature */
 .gsq-feature-box {
-	background: #7873be;
-	border-radius: 50% 50%;
-	color: #ffffff;
-	height: 100px;
-	width: 100px;
+	background: #7873be!important;
+	border-radius: 50% 50%!important;
+	color: #ffffff!important;
+	height: 100px!important;
+	width: 100px!important;
 }
 .gsq-feature-title {
-	font-size: 27px;
-	font-weight: bold;
-	padding-top: 10px;
+	font-size: 27px!important;
+	font-weight: bold!important;
+	padding-top: 10px!important;
 }
 .gsq-featur-number {
-	font-size: 48px;
-	font-weight: bold;
-	margin-top: -20px;
+	font-size: 48px!important;
+	font-weight: bold!important;
+	margin-top: -20px!important;
 }
 
 /* OL & UL */
@@ -205,13 +205,13 @@ html,body {
 
 /* Overlay */
 .item-overlay {
-	background: rgba(0,0,0,0.5);
-	height: 100%;
-	width: 100%;
+	background: rgba(0,0,0,0.5)!important;
+	height: 100%!important;
+	width: 100%!important;
 }
 
 .item-overlay:hover {
-	background: rgba(0,0,0,0.65);
+	background: rgba(0,0,0,0.65)!important;
 }
 
 /* Footer */
@@ -236,121 +236,121 @@ html,body {
 
 /* Covers */
 .gsq-cover-box {
-	height: 768px;
-	width: 100%;
+	height: 768px!important;
+	width: 100%!important;
 }
 .gsq-cover-index {
-	background: url("https://goodsquay.com/wp-content/uploads/2022/12/index-cover.jpg") no-repeat right;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2022/12/index-cover.jpg") no-repeat right!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-tpi {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/tpi-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/tpi-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-item {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/item-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/item-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-jk {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/jk-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/jk-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-gsq {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/gsq-cover-gsq.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/gsq-cover-gsq.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-marketing {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/marketing-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/marketing-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-art {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/art-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/art-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-website {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/website-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/website-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-about {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/about-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/about-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-contact {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/contact-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/contact-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 .gsq-cover-pp {
-	background: url("https://goodsquay.com/wp-content/uploads/2023/02/pp-cover.jpg") no-repeat center;
-	background-size: cover;
-	height: 100%;
-	object-fit: cover;
-	width: 100%;
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/pp-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
 }
 
 /* Customer Calling */
 .page-customer-calling-box {
-	background-color: rgba(238,253,255,1.00);
-	height: 320px;
-	width: 100%;
-	z-index: 1;
+	background-color: rgba(238,253,255,1.00)!important;
+	height: 320px!important;
+	width: 100%!important;
+	z-index: 1!important;
 }
 .customer-calling {
-	background: url("https://goodsquay.com/wp-content/uploads/2022/12/gsq-customer-calling-bg.png") no-repeat left;
-	background-size: cover;
-	height: 320px;
-	width: 100%;
-	object-fit: cover;
-	z-index: 2;
+	background: url("https://goodsquay.com/wp-content/uploads/2022/12/gsq-customer-calling-bg.png") no-repeat left!important;
+	background-size: cover!important;
+	height: 320px!important;
+	width: 100%!important;
+	object-fit: cover!important;
+	z-index: 2!important;
 }
 
 /* Page Description */
 .gsq-page-description-box {
-	display: inline-block;
-	height: 468px;
-	width: 100%;
+	display: inline-block!important;
+	height: 468px!important;
+	width: 100%!important;
 }
 .page-description-index-1 {
-	background: url("https://goodsquay.com/wp-content/uploads/2022/12/index-page-description-bg.jpg") no-repeat left top;
-	background-size: cover;
-	object-fit: cover;
+	background: url("https://goodsquay.com/wp-content/uploads/2022/12/index-page-description-bg.jpg") no-repeat left top!important;
+	background-size: cover!important;
+	object-fit: cover!important;
 }
 .page-description-index-2 {
-	background: url("https://goodsquay.com/wp-content/uploads/2022/12/index-page-description-bg-2.jpg") no-repeat right;
-	background-size: cover;
-	object-fit: cover;
+	background: url("https://goodsquay.com/wp-content/uploads/2022/12/index-page-description-bg-2.jpg") no-repeat right!important;
+	background-size: cover!important;
+	object-fit: cover!important;
 }
 .page-description-tpi-1 {
-	background: url("https://cdn1.cybassets.com/s/files/23929/ckeditor/pictures/content_b1240c04-df7a-40c4-8c2f-04a5ed4af000.jpg") no-repeat right top;
-	background-size: cover;
-	object-fit: cover;
+	background: url("https://cdn1.cybassets.com/s/files/23929/ckeditor/pictures/content_b1240c04-df7a-40c4-8c2f-04a5ed4af000.jpg") no-repeat right top!important;
+	background-size: cover!important;
+	object-fit: cover!important;
 }
