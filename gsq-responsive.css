@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (max-width: 1399.98px) {
+    .text-content-box {
+        background-color: rgba(255,255,255,0.75);
+        height: 100%;
+        width: 100%;
+    }
+}
+@media (max-width: 1199.98px) {
+
+}
+
+@media (max-width: 991.98px) {
+
+    /* Fonts */
+    .gsq-cover-title {
+        font-size: 28px;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+    }
+    .gsq-cover-title-2 {
+        font-size: 50px;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+    }
+    .gsq-cover-subject-1 {
+        font-size: 22px;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+    }
+	.gsq-cover-subject-2 {
+        font-size: 60px;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+    }
+    .gsq-cover-subject-3 {
+        font-size: 84px;
+		text-shadow: 0 1px 5px rgba(0,0,0,0.75);
+    }
+	.gsq-page-title {
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .gsq-page-title-3 {
+		color: #ffffff;
+        font-size: 21px;
+		text-shadow: 0 3px 5px rgba(0,0,0,0.35);
+    }
+	.gsq-page-text {
+		font-size: 18px;
+	}
+    .gsq-item-title {
+        font-size: 24px;
+		line-height: inherit;
+    }
+    .item-overlay-text {
+        font-size: 21px;
+    }
+	.break-text {
+		display: block;
+        word-break: keep-all;
+    }
+	
+    /* Footer */
+    .copyright {
+		margin-bottom: 48px;
+    }
+	
+	/* Covers */
+	.gsq-cover-box {
+        height: 284px;
+    }
+	.page-description-index img{
+        opacity: 0.5;
+    }
+	
+    /* Shadow */
+    .shadow-white {
+        text-shadow: 0 1px 5px rgba(255,255,255,1.0)!important;
+    }
+
+}
+
+@media (max-width: 767.98px) {
+    .text-content-box {
+        background-color: rgba(255,255,255,0.00);
+    }
+	/* Mobile Show */
+	.mobile-show {
+		display: block;
+		padding-top: 100%;
+	}
+    /* Page Description */
+    .page-description-index-2 {
+        background: url("https://goodsquay.com/wp-content/uploads/2023/02/goodsquay-info-mobile.png") no-repeat center top;
+	}
+	/* Mobile Button */
+	.mobile-button .btn {
+		background: #FFFFFF!important;
+		border: 1px solid rgba(255,255,255,1.00)!important;
+		color: rgba(8,40,127,1.00)!important;
+	}
+}
+
+@media (max-width: 575.98px) {
+	
+}
+
+@media (max-width: 419.98px) {
+
+}
+
+@media (max-width: 367.98px) {
+
+}
