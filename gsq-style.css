@@ -140,6 +140,7 @@ html,body {
 }
 .gsq-btn-outline-blue:hover, .gsq-btn-outline-blue:active {
 	background-color: rgba(8,40,127,1.00)!important;
+	color: #ffffff!important;
 }
 .gsq-btn-blue {
 	background: rgba(8,40,127,1.00)!important;
