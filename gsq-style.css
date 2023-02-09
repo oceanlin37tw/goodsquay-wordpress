@@ -251,6 +251,7 @@ p, .entry-content p {
 /* Covers */
 .gsq-cover-box {
 	height: 768px!important;
+	min-width: 100%!important;
 	width: 100%!important;
 }
 .gsq-cover-index {
@@ -325,6 +326,13 @@ p, .entry-content p {
 }
 .gsq-cover-pp {
 	background: url("https://goodsquay.com/wp-content/uploads/2023/02/pp-cover.jpg") no-repeat center!important;
+	background-size: cover!important;
+	height: 100%!important;
+	object-fit: cover!important;
+	width: 100%!important;
+}
+.gsq-cover-qadata {
+	background: url("https://goodsquay.com/wp-content/uploads/2023/02/qadata-cover.jpg") no-repeat center!important;
 	background-size: cover!important;
 	height: 100%!important;
 	object-fit: cover!important;
